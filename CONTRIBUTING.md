@@ -1,4 +1,4 @@
-# Contributing to Octopus Server
+# Contributing to Octopus Deploy
 
 :+1::tada: First off, thanks for your contribution to Octopus Deploy! :tada::+1:
 
